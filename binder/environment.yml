@@ -1,8 +1,8 @@
 name:base
 channels:
-- conda-forge
-- bioconda
-- defauts
+  - conda-forge
+  - bioconda
+  - defauts
 dependencies:
   - python=3.9
   - r-base=4.0
