@@ -10,8 +10,8 @@ dependencies:
   - r-tidyverse
   - r-ggplot2
   - r-reshape2
-  -pip
-  -pip:
+  - pip
+  - pip:
      - numpy
      - pandas
      - matplotlib
