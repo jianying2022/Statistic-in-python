@@ -1,8 +1,9 @@
 name: base
 channels:
+channels:
   - conda-forge
   - bioconda
-  - defauts
+  - defaults
 dependencies:
   - python = 3.9
   - r-base = 4.0
