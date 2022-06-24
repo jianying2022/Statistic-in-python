@@ -11,7 +11,7 @@ dependencies:
   - r-ggplot2
   - r-reshape2
   - r-plotly
-  - r-stingr
+  - r-stringr
   - pip
   - pip:
      - numpy
